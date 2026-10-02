@@ -265,7 +265,7 @@ summary::-webkit-details-marker {
 }
 
 details[open] .bt::after {
-  content: "x";
+  content: "×";
   transform: translateY(-50%) rotate(180deg);
 }
 
